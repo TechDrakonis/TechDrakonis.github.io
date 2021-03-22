@@ -1,1 +1,2 @@
-# TechDrakonis.github.io
+### Idea
+Creating an own website using github pages.
