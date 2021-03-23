@@ -1,3 +1,3 @@
-––––––––––––––––––––––––––––––––––––––––––––––––––––---- <br>
-Right now this is a placeholder for future inventions... <br>
+––––––––––––––––––––––––––––––––––––––––––––––––––––----
+Right now this is a placeholder for future inventions...
 --------------------------------------------------------
